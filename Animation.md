@@ -12,19 +12,19 @@
 
 ## Methods
 
-### animate()
+### [animate()](./animation/animate.md)
 
-### delay() (since version 2.2.0)
+### [delay() (since version 2.2.0)](./animation/delay.md)
 
-### fadeIn()
+### [fadeIn()](./animation/fadeIn.md)
 
-### fadeOut()
+### [fadeOut()](./animation/fadeOut.md)
 
-### fadeTo()
+### [fadeTo()](./animation/fadeTo.md)
 
-### finish() (since version 2.0.0)
+### [finish() (since version 2.0.0)](./animation/finish.md)
 
-### stop()
+### [stop()](./animation/stop.md)
 
 ## Properties
 

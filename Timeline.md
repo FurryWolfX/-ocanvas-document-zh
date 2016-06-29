@@ -6,11 +6,11 @@
 
 ## Methods
 
-### setLoop()
+### [setLoop()](./timeline/setLoop.md)
 
-### start()
+### [start()](./timeline/start.md)
 
-### stop()
+### [stop()](./timeline/stop.md)
 
 ## Properties
 

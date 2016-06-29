@@ -1,4 +1,4 @@
-# oCanvas Object(OC对象)
+# oCanvasObject(OC对象)
 
 这是一个全局的包含所有模块的oCanvas对象, 包含核心的构建方法和其他的一些方法.
 虽然这是这个库的主对象, 但它很少在 `app` 当中使用.
@@ -11,17 +11,17 @@
 
 ## Methods
 
-### [create()](./oCanvas Object/create().md)
+### [create()](./oCanvasObject/create.md)
 
-### [domReady()](./oCanvas Object/domReady().md)
+### [domReady()](./oCanvasObject/domReady.md)
 
-### [extend()](./oCanvas Object/extend().md)
+### [extend()](./oCanvasObject/extend.md)
 
-### [registerDisplayObject()](./oCanvas Object/registerDisplayObject().md)
+### [registerDisplayObject()](./oCanvasObject/registerDisplayObject.md)
 
-### [registerModule()](./oCanvas Object/registerModule().md)
+### [registerModule()](./oCanvasObject/registerModule.md)
 
-### [registerPlugin()](./oCanvas Object/registerPlugin().md)
+### [registerPlugin()](./oCanvasObject/registerPlugin.md)
 
 ## Properties
 

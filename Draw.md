@@ -4,9 +4,9 @@
 
 ## Methods
 
-### clear()
+### [clear()](./draw/clear.md)
 
-### redraw()
+### [redraw()](./draw/redraw.md)
 
 ## Properties
 

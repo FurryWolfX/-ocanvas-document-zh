@@ -1,13 +1,13 @@
 # Background(背景)
 
-`OC` 对 `canvas` 背景有一个特殊的模块. 设置背景你不需要创建任何视图对象或者其他对象.
+`oCanvas` 对 `canvas` 背景有一个特殊的模块. 设置背景你不需要创建任何视图对象或者其他对象.
 只需要在 `oCanvas.create()` 的 `settings` 中设置背景属性.
 如果你想在方法中调用.
 可以使用 `background` 模块的 `set()` 方法.
 
 ##　Methods
 
-###　set()
+###　[set()](./background/set.md)
 
 ##　Properties
 

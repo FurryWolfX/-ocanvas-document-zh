@@ -6,24 +6,24 @@
 
 ## Pages对象
 
-### Base基础类型
+### [Base 基础类型](./displayObjects/Base.md)
 
-### Arc弧线
+### [Arc 弧线](./displayObjects/Arc.md)
 
-### Ellipse椭圆
+### [Ellipse 椭圆](./displayObjects/Ellipse.md)
 
-### Image图像
+### [Image 图像](./displayObjects/Image.md)
 
-### Line直线
+### [Line 直线](./displayObjects/Line.md)
 
-### Polygon多边形
+### [Polygon 多边形](./displayObjects/Polygon.md)
 
-### Rectangle矩形
+### [Rectangle 矩形](./displayObjects/Rectangle.md)
 
-### Sprite雪碧图
+### [Sprite 雪碧图](./displayObjects/Sprite.md)
 
-### Text文本
+### [Text 文本](./displayObjects/Text.md)
 
 ## Methods
 
-### register()
+### [register()](./displayObjects/register.md)

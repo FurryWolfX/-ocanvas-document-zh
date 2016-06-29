@@ -3,21 +3,21 @@
 场景是用来分离 `app` 不同状态的方式.
 如果你创建一个游戏, 也许会有介绍场景, 游戏场景, 结束场景.
 当创建一个新的场景.
-你相当于告诉 `OC` 这个场景包含哪些对象.
-当你需要加载一个特殊的场景, `OC` 会添加这些对象.
+你相当于告诉 `oCanvas` 这个场景包含哪些对象.
+当你需要加载一个特殊的场景, `oCanvas` 会添加这些对象.
 你也可以指定需要卸载的场景.
 
 ## Pages对象
 
-### Instance
+### [Instance](./scenes/Instance.md)
 
 ## Methods
 
-### create()
+### [create()](./scenes/create.md)
 
-### load()
+### [load()](./scenes/load.md)
 
-### unload()
+### [unload()](./scenes/unload.md)
 
 ## Properties
 

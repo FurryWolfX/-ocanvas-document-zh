@@ -4,7 +4,7 @@
 
 语法 `registerPlugin(name, plugin)` 返回类型 `undefined`
 
-只是添加插件到 `OC`,不运行.
+只是添加插件到 `oCanvas`,不运行.
 只有在 `core` 实例创建时, 且设置中指定了插件名才执行.
 
 ## Arguments

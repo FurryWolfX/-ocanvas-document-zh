@@ -3,7 +3,7 @@
 语法 `registerDisplayObject(name, constructor [, init])` 返回类型 `undefined`
 
 注册一个新的 `display` 对象模块.
-此方法只适用于 `OC` 内置的图形模块.
+此方法只适用于 `oCanvas` 内置的图形模块.
 如果想自定义, 使用 `register()` 代替.
 
 ## 参数

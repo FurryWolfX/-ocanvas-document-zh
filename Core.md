@@ -57,17 +57,17 @@ Tools that other methods use. It is used for finding out if the pointer is insid
 
 ##　Methods
 
-### addChild()
+### [addChild()](./core/addChild.md)
 
-### clear()
+### [clear()](./core/clear.md)
 
-### destroy() (since version 2.2.0)
+### [destroy() (since version 2.2.0)](./core/destroy.md)
 
-### redraw()
+### [redraw()](./core/redraw.md)
 
-### removeChild()
+### [removeChild()](./core/removeChild.md)
 
-### reset() (since version 2.2.0)
+### [reset() (since version 2.2.0)](./core/reset.md)
 
 ##　Properties
 

@@ -1,6 +1,6 @@
 # Events(事件)
 
-`OC` 对事件提供了广泛的支持 -- 键盘, 鼠标, 触摸.
+`oCanvas` 对事件提供了广泛的支持 -- 键盘, 鼠标, 触摸.
 所有的这些打包在 `bind()` 方法中.
 非常简单的同时也支持鼠标和触摸设备.
 
@@ -8,7 +8,7 @@
 这里有一个 `core` 对象的特殊的属性, `pointer`.
 他是使用中的指针的引用.
 在触摸设备上就是 `core.touch` 或者 `core.mouse` 的引用.
-如果你需要指针的x, 可以用 `core.pointer.x`.
+如果你需要指针的 `x`, 可以用 `core.pointer.x`.
 
 鼠标和触摸事件由形状自身触发.
 `OC2.0.0` 开始, 事件触发取决于设置模型, 和 `DOM` 事件非常类似.
@@ -21,21 +21,21 @@
 
 ## Pages对象
 
-### Keyboard
+### [Keyboard](./event/Keyboard.md)
 
-### Mouse
+### [Mouse](./event/Mouse.md)
 
-### Touch
+### [Touch](./event/Touch.md)
 
-### Methods
+## Methods
 
-### bind()
+### [bind()](./event/bind.md)
 
-### dragAndDrop()
+### [dragAndDrop()](./event/dragAndDrop.md)
 
-### trigger()
+### [trigger()](./event/trigger.md)
 
-### unbind()
+### [unbind()](./event/unbind.md)
 
 
 ## Properties
@@ -48,7 +48,7 @@
 
 ###Example 1
 
-做了个点击事件,改变背景
+做了个点击事件, 改变背景
 
 ```
 var canvas = oCanvas.create({
