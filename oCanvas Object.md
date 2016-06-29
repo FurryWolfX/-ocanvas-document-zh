@@ -13,15 +13,15 @@
 
 ### [create()](./oCanvas Object/create().md)
 
-### domReady()
+### [domReady()](./oCanvas Object/domReady().md)
 
-### extend()
+### [extend()](./oCanvas Object/extend().md)
 
-### registerDisplayObject()
+### [registerDisplayObject()](./oCanvas Object/registerDisplayObject().md)
 
-### registerModule()
+### [registerModule()](./oCanvas Object/registerModule().md)
 
-### registerPlugin()
+### [registerPlugin()](./oCanvas Object/registerPlugin().md)
 
 ## Properties
 
