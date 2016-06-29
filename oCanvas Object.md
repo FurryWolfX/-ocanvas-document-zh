@@ -11,7 +11,7 @@
 
 ## Methods
 
-### create()
+### [create()](./oCanvas Object/create().md)
 
 ### domReady()
 
