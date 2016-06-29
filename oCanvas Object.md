@@ -27,8 +27,8 @@
 
 ### canvasList : Array
 
-包含所有核心实例.　索引分配给核心实例的 `id` 属性.
+包含所有核心实例. 索引分配给核心实例的 `id` 属性.
 
-###　version : String (since version 2.7.0)
+### version : String (since version 2.7.0)
 
-`oCanvas`　的版本
+`oCanvas` 的版本

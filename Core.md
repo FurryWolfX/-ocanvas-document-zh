@@ -55,7 +55,7 @@ Tools that other methods use. It is used for finding out if the pointer is insid
 触摸事件
 
 
-##　Methods
+## Methods
 
 ### [addChild()](./core/addChild.md)
 
@@ -69,7 +69,7 @@ Tools that other methods use. It is used for finding out if the pointer is insid
 
 ### [reset() (since version 2.2.0)](./core/reset.md)
 
-##　Properties
+## Properties
 
 ### children : Array (since version 2.1.0)
 

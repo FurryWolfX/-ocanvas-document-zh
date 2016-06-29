@@ -2,7 +2,7 @@
 
 SYNTAX `load(name [, unload])` RETURN TYPE `Scenes`
 
-##　Description
+## Description
 
 用指定的名字加载场景. 有个设置可以先卸载当前的场景.
 
