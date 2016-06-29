@@ -5,11 +5,11 @@
 如果你想在方法中调用.
 可以使用 `background` 模块的 `set()` 方法.
 
-##　Methods
+## Methods
 
-###　[set()](./background/set.md)
+### [set()](./background/set.md)
 
-##　Properties
+## Properties
 
 ### bg : String or CanvasGradient or CanvasPattern
 
