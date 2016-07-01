@@ -6,13 +6,13 @@
 
 ## Methods
 
-### add()
+### [add()](./instance/add.md)
 
-### load()
+### [load()](./instance/load.md)
 
-### remove()
+### [remove()](./instance/remove.md)
 
-### unload()
+### [unload()](./instance/unload.md)
 
 ## Properties
 

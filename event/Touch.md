@@ -60,9 +60,9 @@
 
 ## Methods
 
-### cancel()
+### [cancel()](./touch/cancel.md)
 
-### onCanvas()
+### [onCanvas()](./touch/onCanvas.md)
 
 ## Properties
 

@@ -42,17 +42,17 @@
 
 ## Methods(方法)
 
-### addPreventDefaultFor() (since version 2.0.0)
+### [addPreventDefaultFor() (since version 2.0.0)](./keyboard/addPreventDefaultFor.md)
 
-### anyKeysDown()
+### [anyKeysDown()](./keyboard/anyKeysDown.md)
 
-### getKeysDown()
+### [getKeysDown()](./keyboard/getKeysDown.md)
 
-### numKeysDown()
+### [numKeysDown()](./keyboard/numKeysDown.md)
 
-### removePreventDefaultFor() (since version 2.0.0)
+### [removePreventDefaultFor() (since version 2.0.0)](./keyboard/removePreventDefaultFor.md)
 
-## Properties(属性)
+## Properties(属性)]
 
 ### ARROW_DOWN : Number
 

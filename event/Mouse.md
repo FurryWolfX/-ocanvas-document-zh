@@ -64,11 +64,11 @@
 见例子.
 
 ## Methods
-### cancel()
-### cursor()
-### hide()
-### onCanvas()
-### show()
+### [cancel()](./mouse/cancel.md)
+### [cursor()](./mouse/cursor.md)
+### [hide()](./mouse/hide.md)
+### [onCanvas()](./mouse/onCanvas.md)
+### [show()](./mouse/show.md)
 
 ## Properties
 
