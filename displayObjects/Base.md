@@ -4,20 +4,20 @@
 
 ## Methods
 
-### add()
-### addChild()
-### clone()
-### getOrigin()
-### move()
-### moveTo()
-### remove()
-### removeChild()
-### removeChildAt()
-### rotate()
-### rotateTo()
-### scale()
-### scaleTo()
-### setOrigin()
+### [add()](./base/add.md)
+### [addChild()](./base/addChild.md)
+### [clone()](./base/clone.md)
+### [getOrigin()](./base/getOrigin.md)
+### [move()](./base/move.md)
+### [moveTo()](./base/moveTo.md)
+### [remove()](./base/remove.md)
+### [removeChild()](./base/removeChild.md)
+### [removeChildAt()](./base/removeChildAt.md)
+### [rotate()](./base/rotate.md)
+### [rotateTo()](./base/rotateTo.md)
+### [scale()](./base/scale.md)
+### [scaleTo()](./base/scaleTo.md)
+### [setOrigin()](./base/setOrigin.md)
 
 
 ## Properties
