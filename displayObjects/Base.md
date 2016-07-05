@@ -40,41 +40,45 @@
 事件
 ### fill : String
 填充,可以是 `CSS` 颜色,可以是渐变
-### Color[使用CSS色值]
+#### &emsp;Color[使用CSS色值]
 `#000, rgba(0, 0, 0, 0.5)` 或 `transparent`
-### `Gradient` [使用渐变]
-#### `radial-gradient(start_position, end_position, size, color, color [, color...])`
-#### `radial-gradient(center, center, 50% width, #fff, #000)`
-#### `linear-gradient(start_position | angle, color, color [, color...])`
-#### `start position` 可以是 `top`, `bottom`, `left` or `right`, 也可以联合使用, `angle` 可以是 `45deg`.
+#### &emsp;`Gradient` [使用渐变]
 
-### Image pattern
+`radial-gradient(start_position, end_position, size, color, color [, color...])`
+
+`radial-gradient(center, center, 50% width, #fff, #000)`
+
+`linear-gradient(start_position | angle, color, color [, color...])`
+
+`start position` 可以是 `top`, `bottom`, `left` or `right`, 也可以联合使用, `angle` 可以是 `45deg`.
+
+#### &emsp;Image pattern
 
 使用特殊语法:
 
-#### `image(path [, repeat])`
+`image(path [, repeat])`
 
 `repeat` 可以是 `repeat`, `repeat-x`, `repeat-y` or `no-repeat`,默认是 `repeat`;
 
 大多数使用 image(img.jpg)
 
-#### id : Number
+### id : Number
 
 `draw` 模块给与的对象 `ID.core.draw.objects[id]`可以获取 `draw list` 中的对象
 
-#### join : String
+### join : String
 
 描述线如何连接, 可以是 "round", "bevel" or "miter". Default: "miter"
 
-#### miterLimit : Number
+### miterLimit : Number
 
 当 `join` 设置为"miter", 在线相遇时画笔的外边会被延伸. 限制内连接点和外连接点的距离. 超过这个距离会自动使用  "bevel" 代替.
 
-#### opacity : Number
+### opacity : Number
 
 透明度,值在 `0` 到 `1` 之间.
 
-#### origin : Object
+### origin : Object
 
 用 `2` 个属性来描述内部的原点. 这个点作为旋转的中心点, 也是 `x` , `y` 绘图的坐标,如果 `origin.x` 是 `10`,对象的左边框会里左边 `10px`. 这属性可以是数值也可以是以下的特殊字符. 同时也可以使用 `setOrigin()` 来完成这件事.
 
@@ -85,32 +89,32 @@ y
 "top" | "center" | "bottom" | Number
 ```
 
-#### parent : displayObject
+### parent : displayObject
 
 `display` 对象的父级对象
 
-#### pointerEvents : Boolean (since version 2.0.0)
+### pointerEvents : Boolean (since version 2.0.0)
 
 当设置 `false` ,所有的指针事件对当前对象无效, 会穿透到下面的对象上.
 
-#### rotation : Number
+### rotation : Number
 
 旋转, `540` 和 `180` 和 `-180` 是一样的
 
-#### scalingX : Number
+### scalingX : Number
 
 `X` 方向的缩放指数,不能为 `0` ,可以使用方法 `scale()` 或 `scaleTo()`
 
 注意: `oCanvas` 不能正确处理缩放对象的事件!
 
 
-#### scalingY : Number
+### scalingY : Number
 
 `Y` 方向的缩放指数, 不能为 `0` ,可以使用方法 `scale()` 或 `scaleTo()`
 注意: `oCanvas` 不能正确处理缩放对象的事件!
 
 
-#### shadow : String
+### shadow : String
 
 语法同 `CSS box-shadow`:
 
@@ -118,50 +122,50 @@ y
 
 Example: `0 0 10px #000`.
 
-##### shadowBlur : Number
+### shadowBlur : Number
 
 阴影的模糊半径
 
-##### shadowColor : String
+### shadowColor : String
 
 阴影颜色, 任何 `CSS` 颜色
 
-##### shadowOffsetX : Number
+### shadowOffsetX : Number
 
 阴影 `x` 偏移
 
-##### shadowOffsetY : Number
+### shadowOffsetY : Number
 
 阴影 `y` 偏移
 
-#### shapeType : String
+### shapeType : String
 
 描述形状. 可以是 "rectangular" or "radial".
-#### stroke : String
+### stroke : String
 
 对象的画笔属性, 语法 "<number>px value"
 
-#### strokeColor : String
+### strokeColor : String
 
 画笔颜色
 
-#### strokeWidth : Number
+### strokeWidth : Number
 
 画笔宽度
 
-#### type : String
+### type : String
 
 形状名字.比如:一个 `rectangle object` 把 `type` 设置为 "rectangle".
 
-#### x : Number
+### x : Number
 
 对象的 `x` 位置, 相对于父级.
 
-#### y : Number
+### y : Number
 
 对象的 `y` 位置,相对于父级.
 
-##### zIndex : Number or String (since version 2.0.0)
+### zIndex : Number or String (since version 2.0.0)
 
 父级里加的所有对象的层级.值越大越前,也可以使用"front" and "back"关键字.
 

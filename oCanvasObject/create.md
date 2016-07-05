@@ -14,43 +14,43 @@
 
 `settings` 对象控制 `oCanvas` 如何工作, 他有以下属性:
 
-## canvas : String or HTMLCanvasElement
+### canvas : String or HTMLCanvasElement
 
 指定 `oCanvas` 工作的 `canvas` 元素. 可以是 `CSS` 选择器字符串或 `HTMLCanvasElement`.
 
 必须. 无默认值.
 
-## background : String
+### background : String
 
 设置背景.支持CSS颜色值,渐变和图像(特殊语法,见display对象的fill属性).
 
 默认透明
 
-## clearEachFrame : Boolean
+### clearEachFrame : Boolean
 
 指定时间轴在每一帧前是否清除 `canvas`.
 
 默认 `true`
 
-## drawEachFrame : Boolean
+### drawEachFrame : Boolean
 
 指定时间轴在每一帧后是否绘制 `canvas`.
 
 默认 `true`
 
-## fps : Number
+### fps : Number
 
 fps玩游戏的都知道(x)
 
 默认30
 
-## plugins : Array
+### plugins : Array
 
 设置 `core` 实例使用的插件. 包含插件名的数组.
 
 默认:[]
 
-## disableScrolling : Boolean
+### disableScrolling : Boolean
 
 在触摸设备上屏蔽滚动.只是在 `canvas` 元素上屏蔽,其他地方依然可以滚动.
 

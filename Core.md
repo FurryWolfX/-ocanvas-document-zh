@@ -91,39 +91,39 @@ Tools that other methods use. It is used for finding out if the pointer is insid
 
 控制 `oCanvas` 的工作方式, 属性如下:
 
-### canvas : String or HTMLCanvasElement
+#### canvas : String or HTMLCanvasElement
 
 必须, `oCanvas` 操作的 `canvas` 元素, 可以使用 `CSS` 选择器字符串表示, 或者 `HTMLCanvasElement`.
 
-### background : String
+#### background : String
 
 设置背景,默认透明(transparent)
 
-### clearEachFrame : Boolean
+#### clearEachFrame : Boolean
 
 指定 `timeline` 模块每帧前是否 `clear` 一次
 
 默认值: true
 
-### drawEachFrame : Boolean
+#### drawEachFrame : Boolean
 
 指定 `timeline` 模块每帧后是否重绘
 
 默认值: true
 
-### fps : Number
+#### fps : Number
 
 玩游戏的都知道
 
 默认值: 30
 
-### plugins : Array
+#### plugins : Array
 
 使用到的插件, 名字的数组
 
 Default: []
 
-### disableScrolling : Boolean
+#### disableScrolling : Boolean
 
 禁止滚动, 只是禁止 `canvas` 区域, 其他地方不影响.
 

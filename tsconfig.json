@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"module": "amd",
+		"target": "es5",
+		"sourceMap": true,
+		"removeComments": true,
+		"outDir":"compiled",
+		"jsx": "react"
+	},
+	"exclude":[
+		"node_modules",
+		"compiled",
+		"libs"
+	],
+	"compileOnSave":true
+}
