@@ -16,7 +16,7 @@
 
 触发是执行的方法
 
-返回类型
+## Return Value
 
 `Core / displayObject`.
 

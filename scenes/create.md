@@ -17,7 +17,7 @@ SYNTAX `create(name, init)` RETURN TYPE `Scene`
 
 用来增加对象到场景的一个方法. 方法里面映射到场景实例, 所有增加对象可以使用 `this.add(object)`. 这个方法会在  `create()` 时执行. 添加其他子元素,可以使用 `create()` 返回的对象.
 
-Return Value
+## Return Value
 
 `Scene` 实例本身
 

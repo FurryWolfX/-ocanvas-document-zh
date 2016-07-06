@@ -11,7 +11,7 @@ SYNTAX `fadeIn([ duration [, easing [, callback ]]])`
 淡入显示对象. 这是 `animate()` 的简化方法.
 他只传递一个带有 `opacity` 属性的对象给 `animate()` ,见 `animate()` 的详情...
 
-Return Value
+## Return Value
 
 视图对象本身...
 

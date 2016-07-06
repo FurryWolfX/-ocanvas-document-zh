@@ -12,7 +12,9 @@ SYNTAX `remove(object)` RETURN TYPE `Scene`
 
 需要从场景中移除的对象.
 
-Return Value: `Scene`
+## Return Value
+
+`Scene`
 
 ## Examples
 

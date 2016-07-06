@@ -10,7 +10,9 @@ SYNTAX `cancel()` RETURN TYPE `Mouse`
 可以在你的鼠标按下时又想阻止事件时使用.
 即使鼠标在对象内, 鼠标释放时也可以不触发事件.
 
-返回值: `Mouse`
+## Return Value 
+
+`Mouse`
 
 ## Examples
 

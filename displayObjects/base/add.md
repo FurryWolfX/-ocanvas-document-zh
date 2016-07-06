@@ -13,7 +13,7 @@
 如果设置 `false`, 添加对象后不会触发重绘.
 可以在批量添加, 但只想重绘一次时使用. 
 
-返回值:
+## Return Value
 
 `displayObject` 本身.
 

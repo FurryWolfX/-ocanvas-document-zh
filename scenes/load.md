@@ -16,7 +16,7 @@ SYNTAX `load(name [, unload])` RETURN TYPE `Scenes`
 
 如果是 `true`,当前的场景会先卸载.默认: `false`.
 
-Return Value
+## Return Value
 
 `Scenes` 模块本身
 

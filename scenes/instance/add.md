@@ -12,7 +12,9 @@ SYNTAX `add(object)` RETURN TYPE `Scene`
 
 需要加到场景的视图对象
 
-Return Value: `Scene`
+## Return Value
+
+`Scene`
 
 ## Examples
 

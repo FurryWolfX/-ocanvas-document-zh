@@ -6,10 +6,9 @@ SYNTAX `stop()` RETURN TYPE `Timeline`
 
 停止播放
 
-返回值
+## Return Value
 
 `Timeline` 本身
-
 
 ## Examples
 

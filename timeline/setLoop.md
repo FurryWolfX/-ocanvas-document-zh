@@ -16,7 +16,7 @@ SYNTAX `setLoop(function)` RETURN TYPE `Timeline`
 
 循环的方法
 
-返回值
+## Return Value
 
 `Timeline` 对象
 

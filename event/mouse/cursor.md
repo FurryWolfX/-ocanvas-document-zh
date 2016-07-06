@@ -6,7 +6,9 @@
 
 设置指针的新值, 支持 `CSS` 属性.
 
-返回类型: `Mouse`
+## Return Value
+
+`Mouse`
 
 ## Examples
 

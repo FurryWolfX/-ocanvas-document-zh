@@ -6,7 +6,9 @@ SYNTAX `load()` RETURN TYPE `Scene`
 
 加载场景实例
 
-Return Value: `Scene`
+## Return Value
+
+`Scene`
 
 ## Examples
 

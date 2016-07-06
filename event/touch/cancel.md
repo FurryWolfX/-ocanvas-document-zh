@@ -8,7 +8,9 @@ SYNTAX `cancel()` RETURN TYPE `Touch`
 可以在你的手指按下时又想阻止事件时使用.
 即使手指在对象内, 手指释放时也可以不触发事件.
 
-Return Value: `Touch`
+## Return Value
+
+`Touch`
 
 ## Examples
 

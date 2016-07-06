@@ -6,7 +6,7 @@ SYNTAX `finish()` RETURN TYPE `displayObject`
 
 停止动画并设置为结束时的值.
 
-Return Value
+## Return Value
 
 视图对象本身
 

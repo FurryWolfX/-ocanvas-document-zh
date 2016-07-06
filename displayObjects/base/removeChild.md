@@ -18,7 +18,7 @@ SYNTAX `removeChild(object [, redraw])` RETURN TYPE `displayObject`
 如果设置为 `false`, `canvas` 在对象移除后不会重绘.
 可以在批量移除时使用.
 
-返回值
+## Return Value
 
 `displayObject` 本身
 

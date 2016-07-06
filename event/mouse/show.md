@@ -6,7 +6,7 @@ SYNTAX `show()` RETURN TYPE `Mouse`
 
 显示鼠标指针, 默认设置 `CSS` 属性 `default`, 或者是先前 `cursor()` 设置的属性.
 
-Return Value
+## Return Value
 
 `Mouse`. `Mouse` 模块本身.
 

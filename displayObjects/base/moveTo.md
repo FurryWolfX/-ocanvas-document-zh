@@ -16,7 +16,7 @@ SYNTAX `moveTo(x, y)` RETURN TYPE `displayObject`
 
 对象移动的 `y` 位置.
 
-Return Value 
+## Return Value
 
 `displayObject`
 

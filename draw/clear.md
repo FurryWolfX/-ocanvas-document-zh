@@ -12,7 +12,7 @@ SYNTAX `clear(keepBackground)` RETURN TYPE `Draw`
 
 `true` 时保留背景
 
-返回值
+## Return Value
 
 `Draw` 实例本身.
 

@@ -17,6 +17,7 @@ SYNTAX `scale(x, y)` RETURN TYPE `displayObject`
 缩放比, 0-1之间, 1为原大小, 不能为0.
 
 ## Return Value
+
 `displayObject`
 
 ## Examples

@@ -8,7 +8,11 @@ SYNTAX `clear(keepBackground)` RETURN TYPE `Core`
 
 ### keepBackground : Boolean
 
-是否留背景, 返回 `core` 本身
+是否留背景
+
+## Return Value
+
+`core` 本身
 
 ## Examples
 

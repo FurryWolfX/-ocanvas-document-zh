@@ -6,7 +6,9 @@ SYNTAX `hide()` RETURN TYPE `Mouse`
 
 隐藏鼠标指针. 设置 `CSS` 属性"none".
 
-Return Value: `Mouse`.
+## Return Value
+
+`Mouse`.
 
 ## Examples
 

@@ -6,7 +6,7 @@ SYNTAX `redraw()` RETURN TYPE `Draw`
 
 重绘所有对象
 
-返回值
+## Return Value
 
 `Draw` 实例本身.
 

@@ -16,7 +16,7 @@
 
 用 `bind()` 添加到事件的函数.
 
-返回类型
+## Return Value
 
 `Core / displayObject`
 

@@ -17,7 +17,7 @@
 
 如果 `true`, 返回子元素的索引.
 
-返回值
+## Return Value
 
 `displayObject` 或者数字.
 `false` 时返回 `displayObject`, `true` 时返回子元素的索引.

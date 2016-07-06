@@ -12,7 +12,7 @@ SYNTAX `rotateTo(angle)` RETURN TYPE `displayObject`
 
 角度,正值顺时针.负值逆时针. 
 
-返回值 
+## Return Value
 
 `displayObject` 本身
 

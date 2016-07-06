@@ -22,7 +22,7 @@ SYNTAX `delay(duration, [options])` RETURN TYPE `displayObject`
 
 需要延迟的队列名字, 默认:"default"
 
-Return Value
+## Return Value
 
 视图对象本身
 

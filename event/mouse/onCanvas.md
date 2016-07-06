@@ -6,7 +6,7 @@ SYNTAX `onCanvas()` RETURN TYPE `Boolean`
 
 检查指针是否在 `canvas` 内
 
-Return Value 
+## Return Value
 
 `Boolean`. 如果在 `canvas` 内部则返回 `true`. 
 

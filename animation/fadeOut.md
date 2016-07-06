@@ -10,7 +10,7 @@ SYNTAX `fadeOut([ duration [, easing [, callback ]]]) `
 
 淡出对象.他只传递一个带有 `opacity` 属性的对象给 `animate()` ,见 `animate()` 的详情...
 
-Return Value
+## Return Value
 
 视图对象本身
 

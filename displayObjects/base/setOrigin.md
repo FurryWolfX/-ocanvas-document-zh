@@ -19,7 +19,7 @@ SYNTAX `setOrigin(x, y)` RETURN TYPE `displayObject`
 
 垂直像素偏移, 可以是 `top`, `center` 或 `bottom`.
 
-返回值 
+## Return Value
 
 `displayObject` 本身
 

@@ -16,7 +16,7 @@ SYNTAX `fadeTo(opacity, [ duration [, easing [, callback ]]]) `
 
 需要渐变到的透明度, 0-1之间.
 
-Return Value
+## Return Value
 
 视图对象本身.
 

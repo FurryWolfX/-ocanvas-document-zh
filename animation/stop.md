@@ -8,7 +8,7 @@ SYNTAX `stop()` RETURN TYPE `displayObject`
 
 和 `finish()` 类似, 除了不设置最终值.
 
-Return Value
+## Return Value
 
 视图对象本身.
 

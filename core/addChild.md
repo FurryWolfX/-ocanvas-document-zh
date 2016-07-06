@@ -14,7 +14,9 @@
 
 `false` 时, 添加图形不会导致重绘, 用于批量添加图形时的统一重绘.
 
-返回 `core` 实例本身.
+## Return Value
+
+`core` 实例本身.
 
 ## Examples
 
