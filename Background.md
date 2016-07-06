@@ -7,27 +7,26 @@
 
 ## Methods
 
-### [set()](./background/set.md)
+- [set()](./background/set.md)
 
 ## Properties
 
-### bg : String or CanvasGradient or CanvasPattern
-
+- bg : String or CanvasGradient or CanvasPattern
 背景值兼容原生的 `fillStyle` 属性.
 如果他是个色值,就是 `String`, 否则是 `CanvasGradient` 或 `CanvasPattern`.
 
-### type : String
-
+- type : String
 背景值得类型, 可以是以下值:
 
-#### transparent
+  - transparent
 
-#### color
+  - color
 
-#### gradient
+  - gradient
 
-#### image
+  - image
 
-### value : String
+
+- value : String
 
 色值

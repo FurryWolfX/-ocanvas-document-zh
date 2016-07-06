@@ -21,32 +21,32 @@
 
 ## Pages对象
 
-### [Keyboard](./event/Keyboard.md)
+- [Keyboard](./event/Keyboard.md)
 
-### [Mouse](./event/Mouse.md)
+- [Mouse](./event/Mouse.md)
 
-### [Touch](./event/Touch.md)
+- [Touch](./event/Touch.md)
 
 ## Methods
 
-### [bind()](./event/bind.md)
+- [bind()](./event/bind.md)
 
-### [dragAndDrop()](./event/dragAndDrop.md)
+- [dragAndDrop()](./event/dragAndDrop.md)
 
-### [trigger()](./event/trigger.md)
+- [trigger()](./event/trigger.md)
 
-### [unbind()](./event/unbind.md)
+- [unbind()](./event/unbind.md)
 
 
 ## Properties
 
-### enabled : Boolean (since version 2.0.0)
+- enabled : Boolean (since version 2.0.0)
 
 `false` 时关闭事件触发.
 
 ## Examples
 
-###Example 1
+-Example 1
 
 做了个点击事件, 改变背景
 
@@ -61,7 +61,7 @@ canvas.bind("click tap", function () {
 });
 ```
 
-### Example 2
+- Example 2
 
 点击事件, 改填充色.
 

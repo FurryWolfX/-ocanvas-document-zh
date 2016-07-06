@@ -11,24 +11,24 @@
 
 ## Methods
 
-### [create()](./oCanvasObject/create.md)
+- [create()](./oCanvasObject/create.md)
 
-### [domReady()](./oCanvasObject/domReady.md)
+- [domReady()](./oCanvasObject/domReady.md)
 
-### [extend()](./oCanvasObject/extend.md)
+- [extend()](./oCanvasObject/extend.md)
 
-### [registerDisplayObject()](./oCanvasObject/registerDisplayObject.md)
+- [registerDisplayObject()](./oCanvasObject/registerDisplayObject.md)
 
-### [registerModule()](./oCanvasObject/registerModule.md)
+- [registerModule()](./oCanvasObject/registerModule.md)
 
-### [registerPlugin()](./oCanvasObject/registerPlugin.md)
+- [registerPlugin()](./oCanvasObject/registerPlugin.md)
 
 ## Properties
 
-### canvasList : Array
+- canvasList : Array
 
 包含所有核心实例. 索引分配给核心实例的 `id` 属性.
 
-### version : String (since version 2.7.0)
+- version : String (since version 2.7.0)
 
 `oCanvas` 的版本

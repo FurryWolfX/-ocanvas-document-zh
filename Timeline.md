@@ -6,22 +6,22 @@
 
 ## Methods
 
-### [setLoop()](./timeline/setLoop.md)
+- [setLoop()](./timeline/setLoop.md)
 
-### [start()](./timeline/start.md)
+- [start()](./timeline/start.md)
 
-### [stop()](./timeline/stop.md)
+- [stop()](./timeline/stop.md)
 
 ## Properties
 
-### currentFrame : Number
+- currentFrame : Number
 
 当前帧数, 从1开始, 自增量为1.
 
-### fps : Number
+- fps : Number
 
 每秒帧数,设置后需要重新执行循环.
 
-### running : Boolean
+- running : Boolean
 
 时间轴是否正在运行.

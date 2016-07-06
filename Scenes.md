@@ -9,24 +9,24 @@
 
 ## Pages对象
 
-### [Instance](./scenes/Instance.md)
+- [Instance](./scenes/Instance.md)
 
 ## Methods
 
-### [create()](./scenes/create.md)
+- [create()](./scenes/create.md)
 
-### [load()](./scenes/load.md)
+- [load()](./scenes/load.md)
 
-### [unload()](./scenes/unload.md)
+- [unload()](./scenes/unload.md)
 
 ## Properties
 
-### current : String
+- current : String
 
 当前加载的场景的名字.
 如果没有场景加载, 返回 "none"
 
-### scenes : Object
+- scenes : Object
 
 已创建的所有场景.
 `names` 属性是场景的名称, `values` 是场景的实际对象.
