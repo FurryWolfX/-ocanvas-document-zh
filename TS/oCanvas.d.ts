@@ -19,7 +19,15 @@ declare namespace oCanvas {
 
     let canvasList: Array<any>;
     let version: string;
-    function create(settings: any): Core;
+    function create(settings: {
+        canvas: any,
+        background: string,
+        clearEachFrame?: boolean,
+        drawEachFrame?: boolean,
+        fps?: number,
+        plugins?: Array<any>,
+        disableScrolling?: boolean
+    }): Core;
     function domReady(fun: Function): void;
     function extend(destination: Object, source: Object): any;
     function registerDisplayObject(name: string, constructor: Function, init: string): void;
