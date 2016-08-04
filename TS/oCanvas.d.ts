@@ -54,6 +54,7 @@ declare namespace oCanvas {
         added: boolean;
         cap: string;
         children: Array<any>;
+        clipChildren : boolean;
         composition: string;
         drawn: boolean;
         events: any;
