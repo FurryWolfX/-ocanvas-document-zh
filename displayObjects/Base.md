@@ -32,6 +32,8 @@
 描述线的结束点怎么画. 可以是"butt", "round" 或 "square". 默认: "butt"
 ### children : Array
 包含所有添加到这个视图对象的子对象.
+### clipChildren : Boolean (since version 2.8.0)
+如果是 `true` 超出父级的子元素会被隐藏, 默认是 `false`
 ### composition : String
 设置 `composition` 操作,更多信息见 `canvas` 手册
 ### drawn : Boolean
